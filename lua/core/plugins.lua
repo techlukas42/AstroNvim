@@ -2,6 +2,9 @@ local astro_plugins = {
   -- Plugin manager
   ["wbthomason/packer.nvim"] = {},
 
+  -- Rust tools
+  ["simrat39/rust-tools.nvim"] = {},
+
   -- Optimiser
   ["lewis6991/impatient.nvim"] = {},
 
